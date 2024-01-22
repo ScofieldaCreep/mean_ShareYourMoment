@@ -10,3 +10,12 @@ button {
   margin: 0 auto;
   margin-bottom: 1rem;
 }
+
+mat-spinner {
+  margin: 0 auto;
+  display: block;
+}
+
+input[type="file"] {
+  visibility: hidden;
+}
