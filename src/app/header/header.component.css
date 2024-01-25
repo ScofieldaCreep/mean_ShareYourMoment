@@ -16,3 +16,7 @@ ul {
   background-color: #871313; /* 示例背景色 */
   /* 其他样式规则 */
 }
+
+ul {
+  display: flex;
+}
