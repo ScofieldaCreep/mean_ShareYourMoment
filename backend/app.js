@@ -10,7 +10,6 @@ const userRoutes = require("./routes/user");
 const app = express();
 
 // RQRRzSBow2t9gmCs
-// FY0su85ab0LjOhfd
 
 mongoose
   .connect(

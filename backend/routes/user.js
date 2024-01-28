@@ -50,6 +50,7 @@ router.post("/login", (req, res, next) => {
           message: "Auth successful",
           token: token,
           expiresIn: 3600,
+          userId: user._id,
         });
       });
     })
